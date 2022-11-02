@@ -8,11 +8,14 @@ You only need to make changes to the backend application located in the `/api` f
 - Create a new public GitHub repository (don't fork this!) and copy the `/api` folder into it
 - Email us a link to the GitHub repository
 - Include any notes you think are relevant
-  - What would you do if you had the whole week to complete this?
-  - What would you do next?
-  - What would you need to do before releasing this to a production environment? 
-- Any feedback for us?
+  - If time wasn't a constraint what else would you have done?
   - How was this test overall? I.e too hard, too easy, how long it took, etc
+
+## How to run the application
+- In new terminal Go to */api/*
+  - `dotnet restore`
+  - `dotnet build`
+  - `dotnet run`
 
 ## Requirements
 1. Create a client
