@@ -29,6 +29,10 @@ You only need to make changes to the frontend application located in the `/ui` f
     - Example: John Stevens and Steven Smith should both show up if a user searches "steven"
     - Example: John Stevens should show up if a user searches "john"
 
+### Extra points
+1. Be as close to the design as possible
+2. Can your submission can scale to a larger project?
+
 ## Designs
 
 ### Client list page
