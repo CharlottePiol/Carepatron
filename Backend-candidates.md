@@ -5,7 +5,7 @@ You only need to make changes to the backend application located in the `/api` f
     You don't need to run the UI at all!
 
 ## How to submit your work
-- Create a new public GitHub repository (don't fork this!) and copy the `/api` folder into it
+- Create a new public GitHub repository (don't fork this!)
 - Email us a link to the GitHub repository
 - Include any notes you think are relevant
   - If time wasn't a constraint what else would you have done?
