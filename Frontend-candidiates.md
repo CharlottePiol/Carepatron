@@ -22,8 +22,6 @@ You only need to make changes to the frontend application located in the `/ui` f
 ## Requirements
 1. Create a client
     - All fields are required
-2. Edit a client
-    - All fields are required
 3. Search for a client
     - Searching in the "search field" should filter the list of clients by their first or last name
     - Example: John Stevens and Steven Smith should both show up if a user searches "steven"
@@ -36,8 +34,12 @@ You only need to make changes to the frontend application located in the `/ui` f
 ## Designs
 
 ### Client list page
-<img width="1082" alt="Screen Shot 2022-07-29 at 6 51 38 PM" src="https://user-images.githubusercontent.com/14010084/181700473-a9177884-070a-4211-b14d-0a008eb78482.png">
+
+<img width="1367" alt="Screen Shot 2022-11-02 at 11 19 00 PM" src="https://user-images.githubusercontent.com/14010084/199464729-5d356ae0-4cd2-47b6-bac9-45cde08b4c71.png">
+
 
 ### Create client modal
-<img width="1083" alt="Screen Shot 2022-07-29 at 6 51 58 PM" src="https://user-images.githubusercontent.com/14010084/181700544-b2ea60fd-2dbd-491b-9197-282638143080.png">
 
+<img width="1365" alt="Screen Shot 2022-11-02 at 11 19 32 PM" src="https://user-images.githubusercontent.com/14010084/199464826-81b0da62-a88d-4cd0-9965-7e96edf7438e.png">
+
+<img width="1366" alt="Screen Shot 2022-11-02 at 11 20 07 PM" src="https://user-images.githubusercontent.com/14010084/199464949-41ee52b2-f3df-478f-872e-f9bca791cd26.png">
