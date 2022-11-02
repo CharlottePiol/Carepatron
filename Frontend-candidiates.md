@@ -5,7 +5,7 @@ You only need to make changes to the frontend application located in the `/ui` f
     You don't need to run the API at all!
 
 ## How to submit your work
-- Create a new public GitHub repository (don't fork this!) and copy the `/ui` folder into it
+- Create a new public GitHub repository (don't fork this!)
 - Email us a link to the GitHub repository
 - Include any notes you think are relevant
   - If time wasn't a constraint what else would you have done?
