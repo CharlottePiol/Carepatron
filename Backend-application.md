@@ -1,5 +1,12 @@
+## Important
+
+You only need to make changes to the backend application located in the `/api` folder.
+
+    You don't need to run the UI at all!
+
 ## How to submit your work
-- Email back to us a .zip file with the application
+- Create a new public GitHub repository (don't fork this!) and copy the `/api` folder into it
+- Email us a link to the GitHub repository
 - Include any notes you think are relevant
   - What would you do if you had the whole week to complete this?
   - What would you do next?
