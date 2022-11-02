@@ -6,4 +6,4 @@ Carepatron’s mission is to make health software accessible to every human. The
 - Showcase your skills and understanding of development practices (refactor whatever you want!)
 
 ## Backend candidates
-- Follow the instructions [here](https://github.com/Carepatron/Carepatron-Test-Full/wiki/Backend-application)
+- Follow the instructions [here](https://github.com/Carepatron/Carepatron-Test-Full/wiki/Backend-candidates)
