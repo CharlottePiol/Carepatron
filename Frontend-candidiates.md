@@ -31,7 +31,7 @@ You only need to make changes to the frontend application located in the `/ui` f
 
 ### Extra points
 1. Be as close to the design as possible
-2. Can your submission can scale to a larger project?
+2. Can your submission scale to a larger project?
 
 ## Designs
 
